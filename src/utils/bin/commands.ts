@@ -3,7 +3,7 @@
 import * as bin from './index';
 import config from '../../../config.json';
 
-import HeadshotImg from '../../assets/headshot.jpg';
+import HeadshotImg from '../../assets/headshot.jpeg';
 
 // Help
 export const help = async (args: string[]): Promise<string> => {

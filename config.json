@@ -1,6 +1,6 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/OcheOps/Oche/master/README.md",
-  "title": "Portfolio",
+  "title": "DevOps Portfolio",
   "name": "Oche Gideon",
   "ascii": "Oche",
   "social": {
@@ -8,13 +8,13 @@
     "linkedin": "gideonodavid"
   },
   "email": "ochecodes@gmail.com",
-  "ps1_hostname": "OcheVerse",
-  "ps1_username": "visitor",
+  "ps1_hostname": "ocheverse",
+  "ps1_username": "you",
   "repo": "https://github.com/OcheOps/LiveTerm",
-  "resume_url": "https://drive.google.com/file/d/1jwtaUiBMfizodJzyKIV_l_k_nqpyBLTg/view?usp=sharing",
+  "resume_url": "https://drive.google.com/file/d/19hwt1GN4EWzSucGI-lLRwB2HS4xFjtCW/view?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": ""
   },
   "colors": {
     "light": {
